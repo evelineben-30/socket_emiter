@@ -1,5 +1,5 @@
 let socket;
-let canal = "canal-7";
+let canal = "canal-5";
 
 function setup() {
   createCanvas(400, 400);
